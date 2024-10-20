@@ -30,10 +30,10 @@ Steps
 3. Install dependencies:
   npm install
 4. Update the OpenWeatherMap API key in index.js:
-const apiKey = '1b827c92f85d53cc63490a8d1f50b6e3';
-5. Run the application:
+  const apiKey = '1b827c92f85d53cc63490a8d1f50b6e3';
+5.. Run the application:
   node index.js
-Or with nodemon for automatic restarts:
+  Or with nodemon for automatic restarts:
   nodemon index.js
 6. Open your browser and go to:
   http://localhost:8000
